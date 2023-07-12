@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './Laurels.css';
+import {} from './style.js';
 
 const Laurels = () => (
   <div>
