@@ -78,13 +78,13 @@ const App__gallery_images_card = styled.div`
     margin-right: 2rem;
 
     @media screen and (min-width: 2000px) {
-        min-width: 400px;
-        height: 547px;
+     min-width: 400px;
+    height: 547px;
     }
 
     @media screen and (max-width: 650px) {
-        min-width: 240px;
-        height: 320px;
+    min-width: 240px;
+     height: 320px;
     }
 `
 
@@ -96,7 +96,7 @@ const Img = styled.img`
     transition: 0.5s ease;
 
     &:hover {
-        opacity: 0.35;
+    opacity: 0.35;
     }
 `
 
@@ -113,7 +113,7 @@ const App__gallery_images_arrows = styled.div`
 
 `
 const Gallery__image_icon = styled.div`
-     position: absolute;
+    position: absolute;
     color: #fff;
     font-size: 2rem;
     opacity: 0;
