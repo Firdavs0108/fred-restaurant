@@ -15,7 +15,7 @@ const App__video_overlay_circle = styled.div`
     width: 100px;
     height: 100px;
     border-radius: 50%;
-    border: 1px solid var(--color-golden);
+    /* border: 1px solid var(--color-golden); */
     cursor: pointer;
 `
 
