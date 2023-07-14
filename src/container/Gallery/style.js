@@ -131,4 +131,3 @@ const Gallery__image_icon = styled.div`
 export {App__gallery, App__gallery_images_arrows, Img, App__gallery_content, App__gallery_images_card, App__gallery_images_container,  App__gallery_images}
 
 
-//  5:30:01
